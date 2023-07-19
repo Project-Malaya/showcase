@@ -2,7 +2,7 @@ import { useState } from 'react'
 // eslint-disable-next-line import/no-unresolved
 import showcaseLogo from '/showcase-logo-temp.png'
 import './App.css'
-import { Button, Flex, Heading } from '@chakra-ui/react'
+import { Button, Flex } from '@chakra-ui/react'
 
 function App() {
   const [count, setCount] = useState(0)
