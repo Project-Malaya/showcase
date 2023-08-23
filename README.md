@@ -1,3 +1,3 @@
 Vite + React + Typescript + Chakra UI
 
-Temporary deployment: https://airtorres.github.io/showcase/
+Temporary deployment: https://project-malaya.github.io/showcase/
